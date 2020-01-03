@@ -6,7 +6,7 @@ namespace machine_learning_example
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Testing on personal laptop");
         }
     }
 }
